@@ -4,10 +4,10 @@ main:
     url: /people/
     
   - title: "Research"
-    urlL:/research
+    url:/research
     
   - title: "Publications"
     url: /publications/
     
   - title: "Contact"
-    utl:/contact
+    url:/contact
