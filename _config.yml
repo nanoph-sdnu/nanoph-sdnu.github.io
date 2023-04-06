@@ -68,13 +68,11 @@ author:
   name             : "Han Group@SDNU"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
   employer         : Shandong Normal University
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://xs2.studiodahu.com/citations?user=78M5-N4AAAAJ"
   email            :  zhan@sdnu.edu.cn 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "academicpages"
-  orcid            : "http://orcid.org/yourorcidurl"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Zhanghua-Han"
+  orcid            : "https://orcid.org/0000-0002-4177-2555"
 
 
 
